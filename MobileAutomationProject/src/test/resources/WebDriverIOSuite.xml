@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" >
+    <test name="TestInitialAppium">
+        <classes>
+            <class name="com.globant.app.test.MenuNavigationTest"> </class>
+            <class name="com.globant.app.test.SignUpTest"> </class>
+            <class name="com.globant.app.test.LogInTest"> </class>
+            <class name="com.globant.app.test.SwipeTest"> </class>
+        </classes>
+    </test>
+</suite>
